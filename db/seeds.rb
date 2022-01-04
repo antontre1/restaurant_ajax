@@ -16,7 +16,7 @@ Restaurant.create!({
 })
 
 Restaurant.create!({
-  name: "Les 3 pattes du cannard boiteux",
+  name: "Les 3 pattes du canard boiteux",
   address: "17 rue de la Fontaine, Sceaux"
 })
 
